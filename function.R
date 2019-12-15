@@ -68,7 +68,7 @@ sentiment_change_over_time <- rep(0,24)
 
 for (j in 1:24) {
   results <- sentiment_change(rdt_eco, general_eco, time.period.after = j, filter.words = c("trump"))
-  sentiment_change[j] <- mean(results$sentiment$change)
+  sentiment_change_over_time[j] <- mean(results$sentiment$change)
 }
 
 
