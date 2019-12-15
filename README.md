@@ -1,1 +1,1 @@
-Project that anlayzed Trump's Twitter sentiment around the economy and how it affects the sentiments of other users. Using the provided function, this analysis can be extended to analyze the effects onf any Twitter influencer on the sentiment of general Twitter (or a subset of choice)
+Project that anlayzed Trump's Twitter sentiment around the economy and how it affects the sentiment of other users. Using the provided function, this analysis can be extended to analyze the effects onf any Twitter influencer on the sentiment of general Twitter (or a subset of choice).
